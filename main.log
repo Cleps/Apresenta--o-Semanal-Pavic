@@ -1,0 +1,2460 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.6)  9 AUG 2024 10:22
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/Clécio/Documents/Apresentação Semanal Pavic/main.tex"
+(c:/Users/Clécio/Documents/Apresentação Semanal Pavic/main.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+(C:\Program Files\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2024/01/06 v3.71 A class for typesetting presentations
+(C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasemodes.sty (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+\beamer@tempbox=\box52
+\beamer@tempcount=\count195
+\c@beamerpauses=\count196
+ (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasedecode.sty
+\beamer@slideinframe=\count197
+\beamer@minimum=\count198
+\beamer@decode@box=\box53
+)
+\beamer@commentbox=\box54
+\beamer@modecount=\count199
+) (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\headdp=\dimen141
+\footheight=\dimen142
+\sidebarheight=\dimen143
+\beamer@tempdim=\dimen144
+\beamer@finalheight=\dimen145
+\beamer@animht=\dimen146
+\beamer@animdp=\dimen147
+\beamer@animwd=\dimen148
+\beamer@leftmargin=\dimen149
+\beamer@rightmargin=\dimen150
+\beamer@leftsidebar=\dimen151
+\beamer@rightsidebar=\dimen152
+\beamer@boxsize=\dimen153
+\beamer@vboxoffset=\dimen154
+\beamer@descdefault=\dimen155
+\beamer@descriptionwidth=\dimen156
+\beamer@lastskip=\skip49
+\beamer@areabox=\box55
+\beamer@animcurrent=\box56
+\beamer@animshowbox=\box57
+\beamer@sectionbox=\box58
+\beamer@logobox=\box59
+\beamer@linebox=\box60
+\beamer@sectioncount=\count266
+\beamer@subsubsectionmax=\count267
+\beamer@subsectionmax=\count268
+\beamer@sectionmax=\count269
+\beamer@totalheads=\count270
+\beamer@headcounter=\count271
+\beamer@partstartpage=\count272
+\beamer@sectionstartpage=\count273
+\beamer@subsectionstartpage=\count274
+\beamer@animationtempa=\count275
+\beamer@animationtempb=\count276
+\beamer@xpos=\count277
+\beamer@ypos=\count278
+\beamer@ypos@offset=\count279
+\beamer@showpartnumber=\count280
+\beamer@currentsubsection=\count281
+\beamer@coveringdepth=\count282
+\beamer@sectionadjust=\count283
+\beamer@toclastsection=\count284
+\beamer@tocsectionnumber=\count285
+ (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbaseoptions.sty (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+))
+\beamer@paperwidth=\skip50
+\beamer@paperheight=\skip51
+ (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count286
+\Gm@cntv=\count287
+\c@Gm@tempcnt=\count288
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
+\Gm@dimlist=\toks18
+ (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen165
+\pgfutil@tempdimb=\dimen166
+) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box61
+) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+ (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex
+\pgf@x=\dimen167
+\pgf@xa=\dimen168
+\pgf@xb=\dimen169
+\pgf@xc=\dimen170
+\pgf@y=\dimen171
+\pgf@ya=\dimen172
+\pgf@yb=\dimen173
+\pgf@yc=\dimen174
+\c@pgf@counta=\count289
+\c@pgf@countb=\count290
+\c@pgf@countc=\count291
+\c@pgf@countd=\count292
+) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen175
+\pgfmath@count=\count293
+\pgfmath@box=\box62
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count294
+))) (C:\Program Files\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+) (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen176
+\Gin@req@width=\dimen177
+) (C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+\pgf@x=\dimen178
+\pgf@y=\dimen179
+\pgf@xa=\dimen180
+\pgf@ya=\dimen181
+\pgf@xb=\dimen182
+\pgf@yb=\dimen183
+\pgf@xc=\dimen184
+\pgf@yc=\dimen185
+\pgf@xd=\dimen186
+\pgf@yd=\dimen187
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count295
+\c@pgf@countb=\count296
+\c@pgf@countc=\count297
+\c@pgf@countd=\count298
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count299
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count300
+\pgfsyssoftpath@bigbuffer@items=\count301
+) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen188
+\pgf@picmaxx=\dimen189
+\pgf@picminy=\dimen190
+\pgf@picmaxy=\dimen191
+\pgf@pathminx=\dimen192
+\pgf@pathmaxx=\dimen193
+\pgf@pathminy=\dimen194
+\pgf@pathmaxy=\dimen195
+\pgf@xx=\dimen196
+\pgf@xy=\dimen197
+\pgf@yx=\dimen198
+\pgf@yy=\dimen199
+\pgf@zx=\dimen256
+\pgf@zy=\dimen257
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen258
+\pgf@path@lasty=\dimen259
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen260
+\pgf@shorten@start@additional=\dimen261
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box63
+\pgf@hbox=\box64
+\pgf@layerbox@main=\box65
+\pgf@picture@serial@count=\count302
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen262
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen263
+\pgf@pt@y=\dimen264
+\pgf@pt@temp=\dimen265
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen266
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen267
+\pgf@sys@shading@range@num=\count303
+\pgf@shadingcount=\count304
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box66
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count305
+\XC@countmixins=\count306
+) (C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+ (C:\Program Files\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count307
+) (C:\Program Files\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen268
+\Hy@linkcounter=\count308
+\Hy@pagecounter=\count309
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count310
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4040.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4040.
+Package hyperref Info: Option `implicit' set `false' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count311
+ (C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen269
+ (C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count312
+\Field@Width=\dimen270
+\Fld@charsize=\dimen271
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+\Hy@abspage=\count313
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
+ (C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count314
+\c@bookmark@seq@number=\count315
+ (C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbaserequires.sty (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasecompatibility.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasefont.sty (C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks29
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Program Files\MiKTeX\tex/latex/sansmathaccent\sansmathaccent.sty
+Package: sansmathaccent 2020/01/31
+ (C:\Program Files\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+ (C:\Program Files\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+ (C:\Program Files\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+))))) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasetranslator.sty (C:\Program Files\MiKTeX\tex/latex/translator\translator.sty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+)) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasemisc.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasetwoscreens.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbaseoverlay.sty
+\beamer@argscount=\count316
+\beamer@lastskipcover=\skip52
+\beamer@trivlistdepth=\count317
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasetitle.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasesection.sty
+\c@lecture=\count318
+\c@part=\count319
+\c@section=\count320
+\c@subsection=\count321
+\c@subsubsection=\count322
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbaseframe.sty
+\beamer@framebox=\box67
+\beamer@frametitlebox=\box68
+\beamer@zoombox=\box69
+\beamer@zoomcount=\count323
+\beamer@zoomframecount=\count324
+\beamer@frametextheight=\dimen272
+\c@subsectionslide=\count325
+\beamer@frametopskip=\skip53
+\beamer@framebottomskip=\skip54
+\beamer@frametopskipautobreak=\skip55
+\beamer@framebottomskipautobreak=\skip56
+\beamer@envbody=\toks30
+\framewidth=\dimen273
+\c@framenumber=\count326
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbaseframesize.sty
+\beamer@splitbox=\box70
+\beamer@autobreakcount=\count327
+\beamer@autobreaklastheight=\dimen274
+\beamer@frametitletoks=\toks31
+\beamer@framesubtitletoks=\toks32
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbaseframecomponents.sty
+\beamer@footins=\box71
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasecolor.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasenotes.sty
+\beamer@frameboxcopy=\box72
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasetoc.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasetemplates.sty
+\beamer@sbttoks=\toks33
+ (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbaseauxtemplates.sty (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbaseboxes.sty
+\bmb@box=\box73
+\bmb@colorbox=\box74
+\bmb@boxwidth=\dimen275
+\bmb@boxheight=\dimen276
+\bmb@prevheight=\dimen277
+\bmb@temp=\dimen278
+\bmb@dima=\dimen279
+\bmb@dimb=\dimen280
+\bmb@prevheight=\dimen281
+)
+\beamer@blockheadheight=\dimen282
+)) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbaselocalstructure.sty (C:\Program Files\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks34
+)
+\beamer@bibiconwidth=\skip57
+\c@figure=\count328
+\c@table=\count329
+\abovecaptionskip=\skip58
+\belowcaptionskip=\skip59
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasenavigation.sty (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasenavigationsymbols.tex)
+\beamer@section@min@dim=\dimen283
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasetheorems.sty (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks35
+\ex@=\dimen284
+)) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen285
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count330
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count331
+\leftroot@=\count332
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count333
+\DOTSCASE@=\count334
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box75
+\strutbox@=\box76
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen286
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count335
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count336
+\dotsspace@=\muskip18
+\c@parentequation=\count337
+\dspbrk@lvl=\count338
+\tag@help=\toks36
+\row@=\count339
+\column@=\count340
+\maxfields@=\count341
+\andhelp@=\toks37
+\eqnshift@=\dimen287
+\alignsep@=\dimen288
+\tagshift@=\dimen289
+\tagwidth@=\dimen290
+\totwidth@=\dimen291
+\lineht@=\dimen292
+\@envbody=\toks38
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks39
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Program Files\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks40
+\thm@bodyfont=\toks41
+\thm@headfont=\toks42
+\thm@notefont=\toks43
+\thm@headpunct=\toks44
+\thm@preskip=\skip63
+\thm@postskip=\skip64
+\thm@headsep=\skip65
+\dth@everypar=\toks45
+)
+\c@theorem=\count342
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerbasethemes.sty)) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerthemedefault.sty (C:\Program Files\MiKTeX\tex/latex/beamer\beamerfontthemedefault.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamercolorthemedefault.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerinnerthemedefault.sty
+\beamer@dima=\dimen293
+\beamer@dimb=\dimen294
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerouterthemedefault.sty))) (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks46
+\inpenc@posthook=\toks47
+) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerthemeMadrid.sty (C:\Program Files\MiKTeX\tex/latex/beamer\beamercolorthemewhale.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamercolorthemeorchid.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerinnerthemerounded.sty) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerouterthemeinfolines.sty)) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerinnerthemecircles.sty) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count343
+\l__pdf_internal_box=\box77
+) (main.aux
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:entelabel' multiply defined.
+
+
+LaTeX Warning: Label `fig:entelabel' multiply defined.
+
+
+LaTeX Warning: Label `fig:entelabel' multiply defined.
+
+
+LaTeX Warning: Label `fig:entelabel' multiply defined.
+
+
+LaTeX Warning: Label `fig:entelabel' multiply defined.
+
+
+LaTeX Warning: Label `fig:entelabel' multiply defined.
+
+
+LaTeX Warning: Label `fig:entelabel' multiply defined.
+
+
+LaTeX Warning: Label `fig:entelabel' multiply defined.
+
+
+LaTeX Warning: Label `fig:entelabel' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95003pt, 433.34402pt, 10.95003pt)
+* v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
+* \paperwidth=455.24408pt
+* \paperheight=256.0748pt
+* \textwidth=433.34402pt
+* \textheight=227.62207pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count344
+\scratchdimen=\dimen295
+\scratchbox=\box78
+\nofMPsegments=\count345
+\nofMParguments=\count346
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count347
+\MPscratchDim=\dimen296
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
+\everyMPtoPDFconversion=\toks49
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 56.
+ (main.out) (main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 56.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 56.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 56.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 56.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 56.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 56.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 56.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 56.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 56.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 56.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 56.
+ (C:\Program Files\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+) (C:\Program Files\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+) (C:\Program Files\MiKTeX\tex/latex/translator\translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+) (C:\Program Files\MiKTeX\tex/latex/translator\translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+) (C:\Program Files\MiKTeX\tex/latex/translator\translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+) (C:\Program Files\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+) (main.nav)
+
+<ourlogo.png, id=58, 2463.2025pt x 445.665pt>
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 59.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[1
+
+{C:/Users/Clécio/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./ourlogo.png (PNG copy)>] (main.toc)
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 68.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[2
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 96.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 96.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 96.
+ (C:\Program Files\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+)
+<img/Artigo.png, id=134, 573.94424pt x 505.89pt>
+File: img/Artigo.png Graphic file (type png)
+<use img/Artigo.png>
+Package pdftex.def Info: img/Artigo.png  used on input line 96.
+(pdftex.def)             Requested size: 172.1846pt x 151.76816pt.
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 96.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[3
+
+ <./img/Artigo.png>]
+<img/pavicnet.png, id=166, 513.92pt x 283.0575pt>
+File: img/pavicnet.png Graphic file (type png)
+<use img/pavicnet.png>
+Package pdftex.def Info: img/pavicnet.png  used on input line 125.
+(pdftex.def)             Requested size: 256.95937pt x 141.5284pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.125 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 125.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[4
+
+ <./img/pavicnet.png>]
+<img/safrazero.png, id=194, 624.53325pt x 287.27325pt>
+File: img/safrazero.png Graphic file (type png)
+<use img/safrazero.png>
+Package pdftex.def Info: img/safrazero.png  used on input line 149.
+(pdftex.def)             Requested size: 343.49434pt x 158.00078pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.149 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 149.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[5
+
+ <./img/safrazero.png>]
+<img/ClassificacaoX2 (1).png, id=222, 654.94687pt x 593.21625pt>
+File: img/ClassificacaoX2 (1).png Graphic file (type png)
+<use img/ClassificacaoX2 (1).png>
+Package pdftex.def Info: img/ClassificacaoX2 (1).png  used on input line 181.
+(pdftex.def)             Requested size: 196.48558pt x 177.96625pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 181.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[6
+
+ <./img/ClassificacaoX2 (1).png>]
+<img/email_classifier.png, id=252, 262.3401pt x 155.3805pt>
+File: img/email_classifier.png Graphic file (type png)
+<use img/email_classifier.png>
+Package pdftex.def Info: img/email_classifier.png  used on input line 202.
+(pdftex.def)             Requested size: 196.75458pt x 116.53506pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.202 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 202.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[7
+
+ <./img/email_classifier.png>]
+<img/multiclassel.png, id=281, 1445.4pt x 813.0375pt>
+File: img/multiclassel.png Graphic file (type png)
+<use img/multiclassel.png>
+Package pdftex.def Info: img/multiclassel.png  used on input line 227.
+(pdftex.def)             Requested size: 289.07487pt x 162.60461pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.227 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 227.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[8
+
+ <./img/multiclassel.png>]
+<img/folhass.png, id=309, 770.88pt x 770.88pt>
+File: img/folhass.png Graphic file (type png)
+<use img/folhass.png>
+Package pdftex.def Info: img/folhass.png  used on input line 257.
+(pdftex.def)             Requested size: 192.71953pt x 192.71953pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.257 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 257.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[9
+
+ <./img/folhass.png>]
+<img/diagrama (2).png, id=339, 770.88pt x 770.88pt>
+File: img/diagrama (2).png Graphic file (type png)
+<use img/diagrama (2).png>
+Package pdftex.def Info: img/diagrama (2).png  used on input line 286.
+(pdftex.def)             Requested size: 154.17326pt x 154.17326pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.286 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 286.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[10
+
+ <./img/diagrama (2).png>]
+<img/classes.png, id=368, 770.88pt x 770.88pt>
+File: img/classes.png Graphic file (type png)
+<use img/classes.png>
+Package pdftex.def Info: img/classes.png  used on input line 304.
+(pdftex.def)             Requested size: 231.26578pt x 231.26578pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.304 \end{frame}
+                 
+Overfull \vbox (27.26701pt too high) detected at line 304
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 304.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[11
+
+ <./img/classes.png>]
+<img/SintomDatasetExample.png, id=397, 1323.44438pt x 527.72156pt>
+File: img/SintomDatasetExample.png Graphic file (type png)
+<use img/SintomDatasetExample.png>
+Package pdftex.def Info: img/SintomDatasetExample.png  used on input line 324.
+(pdftex.def)             Requested size: 357.33476pt x 142.48672pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.324 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 324.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[12
+
+ <./img/SintomDatasetExample.png>]
+<img/RocoleExample.png, id=425, 403.5075pt x 102.3825pt>
+File: img/RocoleExample.png Graphic file (type png)
+<use img/RocoleExample.png>
+Package pdftex.def Info: img/RocoleExample.png  used on input line 355.
+(pdftex.def)             Requested size: 363.1534pt x 92.14339pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.355 \end{frame}
+                 
+<img/DesiaseandpestExemple.png, id=426, 505.89pt x 98.61844pt>
+File: img/DesiaseandpestExemple.png Graphic file (type png)
+<use img/DesiaseandpestExemple.png>
+Package pdftex.def Info: img/DesiaseandpestExemple.png  used on input line 355.
+(pdftex.def)             Requested size: 404.71254pt x 78.89484pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.355 \end{frame}
+                 
+Overfull \vbox (5.36864pt too high) detected at line 355
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 355.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[13
+
+ <./img/RocoleExample.png> <./img/DesiaseandpestExemple.png>]
+<img/python_colab.png, id=456, 989.6975pt x 439.6425pt>
+File: img/python_colab.png Graphic file (type png)
+<use img/python_colab.png>
+Package pdftex.def Info: img/python_colab.png  used on input line 404.
+(pdftex.def)             Requested size: 197.93599pt x 87.92694pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.404 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 404.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[14
+
+ <./img/python_colab.png (PNG copy)>]
+<img/ref.png, id=495, 628.14674pt x 604.05675pt>
+File: img/ref.png Graphic file (type png)
+<use img/ref.png>
+Package pdftex.def Info: img/ref.png  used on input line 426.
+(pdftex.def)             Requested size: 219.85466pt x 211.42303pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.426 \end{frame}
+                 
+Overfull \vbox (35.18759pt too high) detected at line 426
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 426.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[15
+
+ <./img/ref.png>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 458.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[16
+
+]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 490.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[17
+
+]
+<img/jmubennormal.png, id=604, 456.7464pt x 364.9635pt>
+File: img/jmubennormal.png Graphic file (type png)
+<use img/jmubennormal.png>
+Package pdftex.def Info: img/jmubennormal.png  used on input line 535.
+(pdftex.def)             Requested size: 178.13037pt x 142.33519pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.535 \end{frame}
+                 
+<img/jmubenbalanceado.png, id=605, 456.7464pt x 364.9635pt>
+File: img/jmubenbalanceado.png Graphic file (type png)
+<use img/jmubenbalanceado.png>
+Package pdftex.def Info: img/jmubenbalanceado.png  used on input line 535.
+(pdftex.def)             Requested size: 178.13037pt x 142.33519pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.535 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 535.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[18
+
+ <./img/jmubennormal.png> <./img/jmubenbalanceado.png>]
+<img/Pavicnetresult1.png, id=635, 405.4347pt x 353.4003pt>
+File: img/Pavicnetresult1.png Graphic file (type png)
+<use img/Pavicnetresult1.png>
+Package pdftex.def Info: img/Pavicnetresult1.png  used on input line 580.
+(pdftex.def)             Requested size: 158.11888pt x 137.82555pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.580 \end{frame}
+                 
+<img/Inceptionresult1.png, id=636, 405.4347pt x 353.4003pt>
+File: img/Inceptionresult1.png Graphic file (type png)
+<use img/Inceptionresult1.png>
+Package pdftex.def Info: img/Inceptionresult1.png  used on input line 580.
+(pdftex.def)             Requested size: 158.11888pt x 137.82555pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.580 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 580.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[19
+
+ <./img/Pavicnetresult1.png> <./img/Inceptionresult1.png>]
+<img/resnet50result1.png, id=666, 398.9304pt x 353.4003pt>
+File: img/resnet50result1.png Graphic file (type png)
+<use img/resnet50result1.png>
+Package pdftex.def Info: img/resnet50result1.png  used on input line 602.
+(pdftex.def)             Requested size: 179.51701pt x 159.02866pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.602 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 602.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[20
+
+ <./img/resnet50result1.png>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 636.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[21
+
+]
+File: img/Inceptionresult1.png Graphic file (type png)
+<use img/Inceptionresult1.png>
+Package pdftex.def Info: img/Inceptionresult1.png  used on input line 688.
+(pdftex.def)             Requested size: 158.11888pt x 137.82555pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.688 \end{frame}
+                 
+<img/inceptionreferencia.png, id=743, 385.44pt x 370.38374pt>
+File: img/inceptionreferencia.png Graphic file (type png)
+<use img/inceptionreferencia.png>
+Package pdftex.def Info: img/inceptionreferencia.png  used on input line 688.
+(pdftex.def)             Requested size: 150.32098pt x 144.44907pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.688 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 688.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[22
+
+ <./img/inceptionreferencia.png>]
+File: img/resnet50result1.png Graphic file (type png)
+<use img/resnet50result1.png>
+Package pdftex.def Info: img/resnet50result1.png  used on input line 732.
+(pdftex.def)             Requested size: 155.58223pt x 137.82555pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.732 \end{frame}
+                 
+<img/resnetdereferencia.png, id=772, 410.13225pt x 405.31425pt>
+File: img/resnetdereferencia.png Graphic file (type png)
+<use img/resnetdereferencia.png>
+Package pdftex.def Info: img/resnetdereferencia.png  used on input line 732.
+(pdftex.def)             Requested size: 143.54843pt x 141.8621pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.732 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 732.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[23
+
+ <./img/resnetdereferencia.png>]
+<img/MobilenetResult1.png, id=801, 405.4347pt x 353.4003pt>
+File: img/MobilenetResult1.png Graphic file (type png)
+<use img/MobilenetResult1.png>
+Package pdftex.def Info: img/MobilenetResult1.png  used on input line 777.
+(pdftex.def)             Requested size: 158.11888pt x 137.82555pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.777 \end{frame}
+                 
+<img/mobilenetreferencia.png, id=802, 391.4625pt x 380.622pt>
+File: img/mobilenetreferencia.png Graphic file (type png)
+<use img/mobilenetreferencia.png>
+Package pdftex.def Info: img/mobilenetreferencia.png  used on input line 777.
+(pdftex.def)             Requested size: 137.01392pt x 133.21968pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.777 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 777.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[24
+
+ <./img/MobilenetResult1.png> <./img/mobilenetreferencia.png>]
+<img/densenet169result1.png, id=832, 398.9304pt x 353.4003pt>
+File: img/densenet169result1.png Graphic file (type png)
+<use img/densenet169result1.png>
+Package pdftex.def Info: img/densenet169result1.png  used on input line 823.
+(pdftex.def)             Requested size: 155.58223pt x 137.82555pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.823 \end{frame}
+                 
+<img/densenet169referencia.png, id=833, 392.667pt x 386.04225pt>
+File: img/densenet169referencia.png Graphic file (type png)
+<use img/densenet169referencia.png>
+Package pdftex.def Info: img/densenet169referencia.png  used on input line 823.
+(pdftex.def)             Requested size: 137.4355pt x 135.1168pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.823 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 823.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[25
+
+ <./img/densenet169result1.png> <./img/densenet169referencia.png>]
+File: img/Pavicnetresult1.png Graphic file (type png)
+<use img/Pavicnetresult1.png>
+Package pdftex.def Info: img/Pavicnetresult1.png  used on input line 871.
+(pdftex.def)             Requested size: 202.71684pt x 176.6997pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.871 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 871.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[26
+
+]
+<img/Notebook_57_1.png, id=892, 330.9966pt x 228.3732pt>
+File: img/Notebook_57_1.png Graphic file (type png)
+<use img/Notebook_57_1.png>
+Package pdftex.def Info: img/Notebook_57_1.png  used on input line 920.
+(pdftex.def)             Requested size: 165.49788pt x 114.18631pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.920 \end{frame}
+                 
+<img/Notebook_57_0.png, id=893, 330.9966pt x 228.3732pt>
+File: img/Notebook_57_0.png Graphic file (type png)
+<use img/Notebook_57_0.png>
+Package pdftex.def Info: img/Notebook_57_0.png  used on input line 920.
+(pdftex.def)             Requested size: 165.49788pt x 114.18631pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.920 \end{frame}
+                 
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 920.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[27
+
+ <./img/Notebook_57_1.png> <./img/Notebook_57_0.png>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 959.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[28
+
+]
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <10.95> not available
+(Font)              Font shape `OT1/cmr/m/sc' tried instead on input line 991.
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 991.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[29
+
+]
+<img/bracol data.png, id=1022, 450.9648pt x 364.9635pt>
+File: img/bracol data.png Graphic file (type png)
+<use img/bracol data.png>
+Package pdftex.def Info: img/bracol data.png  used on input line 1011.
+(pdftex.def)             Requested size: 225.48184pt x 182.4813pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1011 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1011.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[30
+
+ <./img/bracol data.png>]
+File: img/SintomDatasetExample.png Graphic file (type png)
+<use img/SintomDatasetExample.png>
+Package pdftex.def Info: img/SintomDatasetExample.png  used on input line 1031.
+(pdftex.def)             Requested size: 357.33476pt x 142.48672pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1031 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1031.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[31
+
+]
+<img/lossbracol.png, id=1079, 330.9966pt x 228.3732pt>
+File: img/lossbracol.png Graphic file (type png)
+<use img/lossbracol.png>
+Package pdftex.def Info: img/lossbracol.png  used on input line 1154.
+(pdftex.def)             Requested size: 198.59947pt x 137.02496pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1154 \end{frame}
+                  
+<img/accbracol.png, id=1080, 330.9966pt x 228.3732pt>
+File: img/accbracol.png Graphic file (type png)
+<use img/accbracol.png>
+Package pdftex.def Info: img/accbracol.png  used on input line 1154.
+(pdftex.def)             Requested size: 198.59947pt x 137.02496pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1154 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1154.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[32
+
+ <./img/lossbracol.png> <./img/accbracol.png>]
+<img/Captura de tela 2024-04-03 104343.png, id=1110, 1067.187pt x 465.53925pt>
+File: img/Captura de tela 2024-04-03 104343.png Graphic file (type png)
+<use img/Captura de tela 2024-04-03 104343.png>
+Package pdftex.def Info: img/Captura de tela 2024-04-03 104343.png  used on input line 1174.
+(pdftex.def)             Requested size: 480.22972pt x 209.49072pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1174 \end{frame}
+                  
+Overfull \hbox (46.8857pt too wide) in paragraph at lines 1174--1174
+ [] 
+ []
+
+
+Overfull \vbox (32.69197pt too high) detected at line 1174
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1174.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[33
+
+ <./img/Captura de tela 2024-04-03 104343.png>]
+File: img/bracol data.png Graphic file (type png)
+<use img/bracol data.png>
+Package pdftex.def Info: img/bracol data.png  used on input line 1221.
+(pdftex.def)             Requested size: 202.93228pt x 164.23206pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1221 \end{frame}
+                  
+<img/bracoldatabalanced.png, id=1139, 450.9648pt x 364.9635pt>
+File: img/bracoldatabalanced.png Graphic file (type png)
+<use img/bracoldatabalanced.png>
+Package pdftex.def Info: img/bracoldatabalanced.png  used on input line 1221.
+(pdftex.def)             Requested size: 202.93228pt x 164.23206pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1221 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1221.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[34
+
+ <./img/bracoldatabalanced.png>]
+<img/baixados.png, id=1168, 330.9966pt x 228.3732pt>
+File: img/baixados.png Graphic file (type png)
+<use img/baixados.png>
+Package pdftex.def Info: img/baixados.png  used on input line 1260.
+(pdftex.def)             Requested size: 198.59947pt x 137.02496pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1260 \end{frame}
+                  
+<img/baixados (1).png, id=1169, 330.9966pt x 228.3732pt>
+File: img/baixados (1).png Graphic file (type png)
+<use img/baixados (1).png>
+Package pdftex.def Info: img/baixados (1).png  used on input line 1260.
+(pdftex.def)             Requested size: 198.59947pt x 137.02496pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1260 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1260.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[35
+
+ <./img/baixados.png> <./img/baixados (1).png>]
+<img/pavicnetV4.png, id=1199, 398.9304pt x 353.4003pt>
+File: img/pavicnetV4.png Graphic file (type png)
+<use img/pavicnetV4.png>
+Package pdftex.def Info: img/pavicnetV4.png  used on input line 1320.
+(pdftex.def)             Requested size: 199.4647pt x 176.6997pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1320 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1320.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[36
+
+ <./img/pavicnetV4.png>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1360.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[37
+
+]
+<img/curacia.png, id=1277, 765.5802pt x 264.5082pt>
+File: img/curacia.png Graphic file (type png)
+<use img/curacia.png>
+Package pdftex.def Info: img/curacia.png  used on input line 1386.
+(pdftex.def)             Requested size: 382.78915pt x 132.25377pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1386 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1386.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[38
+
+ <./img/curacia.png>]
+<img/precisonmetric.png, id=1306, 520.94624pt x 182.93344pt>
+File: img/precisonmetric.png Graphic file (type png)
+<use img/precisonmetric.png>
+Package pdftex.def Info: img/precisonmetric.png  used on input line 1415.
+(pdftex.def)             Requested size: 364.65988pt x 128.05252pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1415 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1415.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[39
+
+ <./img/precisonmetric.png>]
+<img/acc.png, id=1335, 625.58719pt x 175.40532pt>
+File: img/acc.png Graphic file (type png)
+<use img/acc.png>
+Package pdftex.def Info: img/acc.png  used on input line 1443.
+(pdftex.def)             Requested size: 437.90805pt x 122.78287pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1443 \end{frame}
+                  
+Overfull \hbox (4.56403pt too wide) in paragraph at lines 1443--1443
+ [] 
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1443.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[40
+
+ <./img/acc.png>]
+<img/precision.png, id=1364, 624.83438pt x 179.16937pt>
+File: img/precision.png Graphic file (type png)
+<use img/precision.png>
+Package pdftex.def Info: img/precision.png  used on input line 1480.
+(pdftex.def)             Requested size: 437.38109pt x 125.4177pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1480 \end{frame}
+                  
+Overfull \hbox (4.03706pt too wide) in paragraph at lines 1480--1480
+ [] 
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1480.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[41
+
+ <./img/precision.png>]
+<img/mobiletraincurve.png, id=1393, 330.9966pt x 228.3732pt>
+File: img/mobiletraincurve.png Graphic file (type png)
+<use img/mobiletraincurve.png>
+Package pdftex.def Info: img/mobiletraincurve.png  used on input line 1530.
+(pdftex.def)             Requested size: 165.49788pt x 114.18631pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1530 \end{frame}
+                  
+<img/mobileresults.png, id=1394, 398.9304pt x 353.4003pt>
+File: img/mobileresults.png Graphic file (type png)
+<use img/mobileresults.png>
+Package pdftex.def Info: img/mobileresults.png  used on input line 1530.
+(pdftex.def)             Requested size: 199.4647pt x 176.6997pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1530 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1530.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[42
+
+ <./img/mobiletraincurve.png> <./img/mobileresults.png>]
+<img/trainingSet.png, id=1424, 384.6872pt x 441.14813pt>
+File: img/trainingSet.png Graphic file (type png)
+<use img/trainingSet.png>
+Package pdftex.def Info: img/trainingSet.png  used on input line 1583.
+(pdftex.def)             Requested size: 153.87215pt x 176.45612pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1583 \end{frame}
+                  
+<img/TmobileNet.png, id=1425, 433.62pt x 508.90125pt>
+File: img/TmobileNet.png Graphic file (type png)
+<use img/TmobileNet.png>
+Package pdftex.def Info: img/TmobileNet.png  used on input line 1583.
+(pdftex.def)             Requested size: 173.44492pt x 203.55688pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1583 \end{frame}
+                  
+Overfull \vbox (17.2873pt too high) detected at line 1583
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1583.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[43
+
+ <./img/trainingSet.png> <./img/TmobileNet.png>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1625.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[44
+
+]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1663.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[45
+
+]
+<img/jmubenAcc.png, id=1549, 591.4095pt x 143.3355pt>
+File: img/jmubenAcc.png Graphic file (type png)
+<use img/jmubenAcc.png>
+Package pdftex.def Info: img/jmubenAcc.png  used on input line 1690.
+(pdftex.def)             Requested size: 413.98383pt x 100.33415pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1690 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1690.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[46
+
+ <./img/jmubenAcc.png>]
+<img/jmubenPrecs.png, id=1578, 592.01175pt x 142.73325pt>
+File: img/jmubenPrecs.png Graphic file (type png)
+<use img/jmubenPrecs.png>
+Package pdftex.def Info: img/jmubenPrecs.png  used on input line 1717.
+(pdftex.def)             Requested size: 414.4054pt x 99.91257pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1717 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1717.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[47
+
+ <./img/jmubenPrecs.png>]
+<img/MobileTrain2.png, id=1607, 330.9966pt x 228.3732pt>
+File: img/MobileTrain2.png Graphic file (type png)
+<use img/MobileTrain2.png>
+Package pdftex.def Info: img/MobileTrain2.png  used on input line 1765.
+(pdftex.def)             Requested size: 165.49788pt x 114.18631pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1765 \end{frame}
+                  
+<img/mobilematrix2.png, id=1608, 405.4347pt x 353.4003pt>
+File: img/mobilematrix2.png Graphic file (type png)
+<use img/mobilematrix2.png>
+Package pdftex.def Info: img/mobilematrix2.png  used on input line 1765.
+(pdftex.def)             Requested size: 202.71684pt x 176.6997pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1765 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1765.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[48
+
+ <./img/MobileTrain2.png> <./img/mobilematrix2.png>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1807.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[49
+
+]
+File: img/precision.png Graphic file (type png)
+<use img/precision.png>
+Package pdftex.def Info: img/precision.png  used on input line 1832.
+(pdftex.def)             Requested size: 437.38109pt x 125.4177pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1832 \end{frame}
+                  
+Overfull \hbox (4.03706pt too wide) in paragraph at lines 1832--1832
+ [] 
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1832.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[50
+
+]
+File: img/pavicnet.png Graphic file (type png)
+<use img/pavicnet.png>
+Package pdftex.def Info: img/pavicnet.png  used on input line 1856.
+(pdftex.def)             Requested size: 359.74153pt x 198.13889pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1856 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1856.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[51
+
+]
+<img/convolutionGrid.png, id=1738, 275.0275pt x 148.88959pt>
+File: img/convolutionGrid.png Graphic file (type png)
+<use img/convolutionGrid.png>
+Package pdftex.def Info: img/convolutionGrid.png  used on input line 1895.
+(pdftex.def)             Requested size: 220.0223pt x 119.11182pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1895 \end{frame}
+                  
+Overfull \hbox (3.35028pt too wide) in paragraph at lines 1895--1895
+ [] 
+ []
+
+<img/Mapa de ativação.jpg, id=1739, 321.2pt x 321.2pt>
+File: img/Mapa de ativação.jpg Graphic file (type jpg)
+<use img/Mapa de ativação.jpg>
+Package pdftex.def Info: img/Mapa de ativação.jpg  used on input line 1895.
+(pdftex.def)             Requested size: 192.72148pt x 192.72148pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1895 \end{frame}
+                  
+Overfull \vbox (6.45189pt too high) detected at line 1895
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1895.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[52
+
+ <./img/convolutionGrid.png> <./img/Mapa de ativação.jpg>]
+<img/maxpooling.png, id=1768, 697.60625pt x 248.93pt>
+File: img/maxpooling.png Graphic file (type png)
+<use img/maxpooling.png>
+Package pdftex.def Info: img/maxpooling.png  used on input line 1916.
+(pdftex.def)             Requested size: 279.03755pt x 99.57022pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1916 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1916.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[53
+
+ <./img/maxpooling.png>]
+<img/NewPavicV7.png, id=1797, 678.1335pt x 704.6325pt>
+File: img/NewPavicV7.png Graphic file (type png)
+<use img/NewPavicV7.png>
+Package pdftex.def Info: img/NewPavicV7.png  used on input line 1955.
+(pdftex.def)             Requested size: 237.35028pt x 246.62508pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1955 \end{frame}
+                  
+Overfull \vbox (4.47617pt too high) detected at line 1955
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 1955.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[54
+
+ <./img/NewPavicV7.png>]
+<img/shuffleunits.png, id=1826, 617.30624pt x 546.24075pt>
+File: img/shuffleunits.png Graphic file (type png)
+<use img/shuffleunits.png>
+Package pdftex.def Info: img/shuffleunits.png  used on input line 2000.
+(pdftex.def)             Requested size: 246.91812pt x 218.49243pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2000 \end{frame}
+                  
+Overfull \hbox (30.24611pt too wide) in paragraph at lines 2000--2000
+ [] 
+ []
+
+<img/shufflwMain.png, id=1827, 582.37575pt x 509.5035pt>
+File: img/shufflwMain.png Graphic file (type png)
+<use img/shufflwMain.png>
+Package pdftex.def Info: img/shufflwMain.png  used on input line 2000.
+(pdftex.def)             Requested size: 232.94617pt x 203.79778pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2000 \end{frame}
+                  
+Overfull \hbox (16.27415pt too wide) in paragraph at lines 2000--2000
+ [] 
+ []
+
+
+Overfull \vbox (13.58107pt too high) detected at line 2000
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2000.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[55
+
+ <./img/shuffleunits.png> <./img/shufflwMain.png>]
+<img/novosResultsPavicEShuffle.png, id=1858, 711.8595pt x 158.39175pt>
+File: img/novosResultsPavicEShuffle.png Graphic file (type png)
+<use img/novosResultsPavicEShuffle.png>
+Package pdftex.def Info: img/novosResultsPavicEShuffle.png  used on input line 2029.
+(pdftex.def)             Requested size: 441.34833pt x 98.20186pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-label}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2029 \end{frame}
+                  
+Overfull \hbox (8.0043pt too wide) in paragraph at lines 2029--2029
+ [] 
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2029.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[56
+
+ <./img/novosResultsPavicEShuffle.png>]
+<img/drone é usado no monitoramento.jpg, id=1887, 326.72063pt x 256.70906pt>
+File: img/drone é usado no monitoramento.jpg Graphic file (type jpg)
+<use img/drone é usado no monitoramento.jpg>
+Package pdftex.def Info: img/drone é usado no monitoramento.jpg  used on input line 2076.
+(pdftex.def)             Requested size: 196.03387pt x 154.02661pt.
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2076.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[57
+
+ <./img/drone é usado no monitoramento.jpg>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2119.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[58
+
+]
+<img/diseasescanvas.png, id=1961, 742.27313pt x 435.12563pt>
+File: img/diseasescanvas.png Graphic file (type png)
+<use img/diseasescanvas.png>
+Package pdftex.def Info: img/diseasescanvas.png  used on input line 2158.
+(pdftex.def)             Requested size: 222.68365pt x 130.53868pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:entelabel}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2158 \end{frame}
+                  
+Overfull \hbox (6.01164pt too wide) in paragraph at lines 2158--2158
+ [] 
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2158.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[59
+
+ <./img/diseasescanvas.png>]
+<img/C4P20E2.jpg, id=1990, 4143.48pt x 2330.7075pt>
+File: img/C4P20E2.jpg Graphic file (type jpg)
+<use img/C4P20E2.jpg>
+Package pdftex.def Info: img/C4P20E2.jpg  used on input line 2205.
+(pdftex.def)             Requested size: 207.18613pt x 116.54219pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:entelabel}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2205 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2205.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[60
+
+ <./img/C4P20E2.jpg>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2249.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[61
+
+]
+<img/roboflow.png, id=2070, 1374.93675pt x 744.381pt>
+File: img/roboflow.png Graphic file (type png)
+<use img/roboflow.png>
+Package pdftex.def Info: img/roboflow.png  used on input line 2276.
+(pdftex.def)             Requested size: 412.4842pt x 223.31602pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:entelabel}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2276 \end{frame}
+                  
+Overfull \vbox (19.31726pt too high) detected at line 2276
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2276.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[62
+
+ <./img/roboflow.png>]
+<img/folhaRoboflow2.png, id=2099, 751.00575pt x 427.5975pt>
+File: img/folhaRoboflow2.png Graphic file (type png)
+<use img/folhaRoboflow2.png>
+Package pdftex.def Info: img/folhaRoboflow2.png  used on input line 2315.
+(pdftex.def)             Requested size: 225.30347pt x 128.28023pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:entelabel}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2315 \end{frame}
+                  
+Overfull \hbox (8.63145pt too wide) in paragraph at lines 2315--2315
+ [] 
+ []
+
+<img/FolhRoboflow1.png, id=2100, 733.5405pt x 415.5525pt>
+File: img/FolhRoboflow1.png Graphic file (type png)
+<use img/FolhRoboflow1.png>
+Package pdftex.def Info: img/FolhRoboflow1.png  used on input line 2315.
+(pdftex.def)             Requested size: 220.06384pt x 124.6667pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:entelabel}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2315 \end{frame}
+                  
+Overfull \hbox (3.39183pt too wide) in paragraph at lines 2315--2315
+ [] 
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2315.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[63
+
+ <./img/folhaRoboflow2.png> <./img/FolhRoboflow1.png>]
+<img/preprocessRoboflow.png, id=2130, 497.4585pt x 533.5935pt>
+File: img/preprocessRoboflow.png Graphic file (type png)
+<use img/preprocessRoboflow.png>
+Package pdftex.def Info: img/preprocessRoboflow.png  used on input line 2355.
+(pdftex.def)             Requested size: 174.11307pt x 186.76051pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:entelabel}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2355 \end{frame}
+                  
+Overfull \hbox (0.7781pt too wide) in paragraph at lines 2355--2355
+ [] 
+ []
+
+<img/exportRRoboflow.png, id=2131, 777.50475pt x 453.49425pt>
+File: img/exportRRoboflow.png Graphic file (type png)
+<use img/exportRRoboflow.png>
+Package pdftex.def Info: img/exportRRoboflow.png  used on input line 2355.
+(pdftex.def)             Requested size: 272.13074pt x 158.72536pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:entelabel}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2355 \end{frame}
+                  
+Overfull \hbox (12.12169pt too wide) in paragraph at lines 2355--2355
+ [] 
+ []
+
+
+Overfull \vbox (11.96176pt too high) detected at line 2355
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2355.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[64
+
+ <./img/preprocessRoboflow.png> <./img/exportRRoboflow.png>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2424.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[65
+
+]
+<img/imgprocess1.png, id=2209, 867.84225pt x 196.3335pt>
+File: img/imgprocess1.png Graphic file (type png)
+<use img/imgprocess1.png>
+Package pdftex.def Info: img/imgprocess1.png  used on input line 2461.
+(pdftex.def)             Requested size: 433.92006pt x 98.1665pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:entelabel}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2461 \end{frame}
+                  
+Overfull \hbox (0.57603pt too wide) in paragraph at lines 2461--2461
+ [] 
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2461.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[66
+
+ <./img/imgprocess1.png>]
+<img/dlcResults.png, id=2238, 552.56438pt x 198.7425pt>
+File: img/dlcResults.png Graphic file (type png)
+<use img/dlcResults.png>
+Package pdftex.def Info: img/dlcResults.png  used on input line 2490.
+(pdftex.def)             Requested size: 386.79242pt x 139.11879pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{fig:entelabel}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2490 \end{frame}
+                  
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2490.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[67
+
+ <./img/dlcResults.png>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2532.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[68
+
+]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2566.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[69
+
+]
+<img/PrintArtigo.png, id=2358, 777.65532pt x 383.18156pt>
+File: img/PrintArtigo.png Graphic file (type png)
+<use img/PrintArtigo.png>
+Package pdftex.def Info: img/PrintArtigo.png  used on input line 2586.
+(pdftex.def)             Requested size: 388.8267pt x 191.5903pt.
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2586.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[70
+
+ <./img/PrintArtigo.png>]
+<img/folhaExemplloDetectada.jpg, id=2387, 1084.80281pt x 1003.49907pt>
+File: img/folhaExemplloDetectada.jpg Graphic file (type jpg)
+<use img/folhaExemplloDetectada.jpg>
+Package pdftex.def Info: img/folhaExemplloDetectada.jpg  used on input line 2614.
+(pdftex.def)             Requested size: 216.95671pt x 200.69626pt.
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2614.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[71
+
+ <./img/folhaExemplloDetectada.jpg>]
+<img/fluxograma-2-estagios.png, id=2415, 2695.82156pt x 846.91406pt>
+File: img/fluxograma-2-estagios.png Graphic file (type png)
+<use img/fluxograma-2-estagios.png>
+Package pdftex.def Info: img/fluxograma-2-estagios.png  used on input line 2632.
+(pdftex.def)             Requested size: 431.34027pt x 135.50902pt.
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2632.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[72
+
+ <./img/fluxograma-2-estagios.png (PNG copy)>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2683.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[73
+
+]
+<img/ExemploDeteccao.png, id=2471, 985.43156pt x 883.04906pt>
+File: img/ExemploDeteccao.png Graphic file (type png)
+<use img/ExemploDeteccao.png>
+Package pdftex.def Info: img/ExemploDeteccao.png  used on input line 2704.
+(pdftex.def)             Requested size: 226.64449pt x 203.097pt.
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2704.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[74
+
+ <./img/ExemploDeteccao.png (PNG copy)>]
+<img/ExemploClassificacao.png, id=2499, 1831.59282pt x 1087.06125pt>
+File: img/ExemploClassificacao.png Graphic file (type png)
+<use img/ExemploClassificacao.png>
+Package pdftex.def Info: img/ExemploClassificacao.png  used on input line 2722.
+(pdftex.def)             Requested size: 366.31207pt x 217.40839pt.
+
+Overfull \vbox (13.40962pt too high) detected at line 2722
+ []
+
+
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2722.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[75
+
+ <./img/ExemploClassificacao.png (PNG copy)>]
+
+File: ourlogo.png Graphic file (type png)
+<use ourlogo.png>
+Package pdftex.def Info: ourlogo.png  used on input line 2759.
+(pdftex.def)             Requested size: 94.33934pt x 17.07182pt.
+[76
+
+]
+\tf@nav=\write6
+\openout6 = `main.nav'.
+
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+\tf@snm=\write8
+\openout8 = `main.snm'.
+
+ (main.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 4C94203B438FDFE62F94D41291EC9124;895.
+ ) 
+Here is how much of TeX's memory you used:
+ 22795 strings out of 473904
+ 443944 string characters out of 5736410
+ 1950908 words of memory out of 5000000
+ 45033 multiletter control sequences out of 15000+600000
+ 571876 words of font info for 85 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,16n,123p,464b,812s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (76 pages, 28276713 bytes).
+PDF statistics:
+ 2638 PDF objects out of 2984 (max. 8388607)
+ 163 named destinations out of 1000 (max. 500000)
+ 1441 words of extra memory for PDF output out of 10000 (max. 10000000)
+
